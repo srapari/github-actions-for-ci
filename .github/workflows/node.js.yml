@@ -30,7 +30,6 @@ jobs:
     test:
 
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         os: [ubuntu-latest, windows-2016]
